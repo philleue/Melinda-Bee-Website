@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://philleue.github.io/Melinda-Bee-Website/sitemap.xml
