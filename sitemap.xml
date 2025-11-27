@@ -5,12 +5,11 @@
 <loc>https://philleue.github.io/Melinda-Bee-Website/</loc>
 </url>
 <url>
-<loc>https://philleue.github.io/Melinda-Bee-Website/bee/</loc>
-<lastmod>2025-11-26T18:17:33-05:00</lastmod>
-<image:image>
-<image:loc>https://philleue.github.io/Melinda-Bee-Website/media/posts/1/bee.png</image:loc>
-<image:title><![CDATA[(bee)]]></image:title>
-</image:image>
+<loc>https://philleue.github.io/Melinda-Bee-Website/parent-page/</loc>
+<lastmod>2025-11-26T19:06:20-05:00</lastmod>
+</url>
+<url>
+<loc>https://philleue.github.io/Melinda-Bee-Website/parent-page/bee/</loc>
 </url>
 <url>
 <loc>https://philleue.github.io/Melinda-Bee-Website/this-is-a-post/</loc>
