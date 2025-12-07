@@ -3,32 +3,40 @@
     <title>Melinda Bee</title>
     <link href="https://philleue.github.io/Melinda-Bee-Website/feed.xml" rel="self" />
     <link href="https://philleue.github.io/Melinda-Bee-Website" />
-    <updated>2025-11-26T18:28:49-05:00</updated>
+    <updated>2025-12-06T18:44:01-05:00</updated>
     <author>
         <name>Phil</name>
     </author>
     <id>https://philleue.github.io/Melinda-Bee-Website</id>
 
     <entry>
-        <title>This is a Post</title>
+        <title>Melinda Bee </title>
         <author>
             <name>Phil</name>
         </author>
-        <link href="https://philleue.github.io/Melinda-Bee-Website/this-is-a-post/"/>
-        <id>https://philleue.github.io/Melinda-Bee-Website/this-is-a-post/</id>
+        <link href="https://philleue.github.io/Melinda-Bee-Website/home-page/"/>
+        <id>https://philleue.github.io/Melinda-Bee-Website/home-page/</id>
+        <media:content url="https://philleue.github.io/Melinda-Bee-Website/media/posts/8/IMG_20251202_095215.jpg" medium="image" />
 
-        <updated>2025-11-26T18:28:49-05:00</updated>
+        <updated>2025-12-02T10:37:43-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    The first one?
+                        <img src="https://philleue.github.io/Melinda-Bee-Website/media/posts/8/IMG_20251202_095215.jpg" alt="" />
+                    <p>Our award-winning honey is the perfect addition to tea and coffee, baking and cooking, or even simply drizzled on buttered toast. Along with our beeswax candles, it also makes for a thoughtful and unique gift.</p>
+<p><span style="color: #000000;">Visit our apiary to learn more about our natural practices and to bring a jar home!</span></p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    The first one?
-  </p>
+                    <p><img src="https://philleue.github.io/Melinda-Bee-Website/media/posts/8/IMG_20251202_095215.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Our award-winning honey is the perfect addition to tea and coffee, baking and cooking, or even simply drizzled on buttered toast. Along with our beeswax candles, it also makes for a thoughtful and unique gift.</p>
+<p><span style="color: #000000;">Visit our apiary to learn more about our natural practices and to bring a jar home!</span></p>
+
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://philleue.github.io/Melinda-Bee-Website/media/posts/8/gallery/IMG_20251202_095213.jpg" data-size="4032x3024"><img loading="lazy" src="https://philleue.github.io/Melinda-Bee-Website/media/posts/8/gallery/IMG_20251202_095213-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://philleue.github.io/Melinda-Bee-Website/media/posts/8/gallery/IMG_20251202_095228.jpg" data-size="4032x3024"><img loading="lazy" src="https://philleue.github.io/Melinda-Bee-Website/media/posts/8/gallery/IMG_20251202_095228-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
